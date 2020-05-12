@@ -1,5 +1,5 @@
 # Schedule Risk Analysis
-Final Year Research Project: Development of a Web Based Software for Schedule Risk Analysis In Project Management
+My Final Year Research Project was to Development a Web Based Software for Schedule Risk Analysis In Project Management
 
 # Abstract
 
